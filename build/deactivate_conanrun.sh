@@ -1,0 +1,1 @@
+. "/home/iony/Documents/UNI/python/build/deactivate_conanrunenv-release-x86_64.sh"

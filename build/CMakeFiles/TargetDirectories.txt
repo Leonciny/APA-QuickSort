@@ -1,0 +1,3 @@
+/home/iony/Documents/UNI/python/build/CMakeFiles/swap.dir
+/home/iony/Documents/UNI/python/build/CMakeFiles/edit_cache.dir
+/home/iony/Documents/UNI/python/build/CMakeFiles/rebuild_cache.dir

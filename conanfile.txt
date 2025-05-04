@@ -1,0 +1,5 @@
+[requires]
+eastl/3.21.12
+[generators]
+CMakeDeps
+CMakeToolchain

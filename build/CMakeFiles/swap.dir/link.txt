@@ -1,0 +1,1 @@
+/usr/bin/c++ -m64 -O3 -DNDEBUG -m64 -Wl,--dependency-file=CMakeFiles/swap.dir/link.d CMakeFiles/swap.dir/swap.cpp.o -o swap   -L/home/iony/.conan2/p/b/eastl9a3d7ce7b6cb8/p/lib  -Wl,-rpath,/home/iony/.conan2/p/b/eastl9a3d7ce7b6cb8/p/lib /home/iony/.conan2/p/b/eastl9a3d7ce7b6cb8/p/lib/libEASTL.a -lm -lpthread

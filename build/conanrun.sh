@@ -1,0 +1,1 @@
+. "/home/iony/Documents/UNI/python/build/conanrunenv-release-x86_64.sh"

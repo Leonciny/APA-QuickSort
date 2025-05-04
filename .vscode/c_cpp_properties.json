@@ -1,0 +1,18 @@
+{
+    "configurations": [
+      {
+        "name": "Linux",
+        "includePath": [
+          "${workspaceFolder}/build/**",
+          "${workspaceFolder}/**",
+          "/usr/include/**",
+          "/usr/lib/python3.13/**"
+        ],
+        "compilerPath": "/usr/bin/clang++",
+        "cStandard": "c17",
+        "cppStandard": "c++20",
+        "intelliSenseMode": "linux-clang-x64"
+      }
+    ],
+    "version": 4
+  }

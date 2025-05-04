@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/iony/Documents/UNI/python/build",
+  "command": "/usr/bin/c++  -isystem /home/iony/.conan2/p/b/eastl9a3d7ce7b6cb8/p/include -isystem /home/iony/.conan2/p/eabasd910375b4b3a0/p/include -isystem /home/iony/.conan2/p/eabasd910375b4b3a0/p/include/Common -isystem /home/iony/.conan2/p/eabasd910375b4b3a0/p/include/Common/EABase -m64 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/swap.dir/swap.cpp.o -c /home/iony/Documents/UNI/python/swap.cpp",
+  "file": "/home/iony/Documents/UNI/python/swap.cpp",
+  "output": "CMakeFiles/swap.dir/swap.cpp.o"
+}
+]
