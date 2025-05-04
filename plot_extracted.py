@@ -19,7 +19,7 @@ x = np.asarray(results)
 fig, ax = plt.subplots()
 
 
-N, bins, patches = ax.hist(x, bins=64, linewidth=0.5, edgecolor="white", density=True)
+N, bins, patches = ax.hist(x, bins=64, linewidth=0.5, edgecolor="white")
 
 # We'll color code by height, but you could use any scalar
 fracs = N / N.max()
